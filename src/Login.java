@@ -26,7 +26,7 @@ public class Login {
 	static final String PASS = "root";
 	static final String PASSWORD_QUERY = "SELECT user, password FROM user_name";
 	//END OF DB VARIABLES //
-	
+	#Andrea did This 
 	public static void LoginPopup() {
 		JPanel panel = new JPanel();
 		panel.setLayout(null);
